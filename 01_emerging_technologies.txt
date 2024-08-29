@@ -1,0 +1,63 @@
+Assignment #1: Exploring Emerging Technologies
+
+1. Artificial Intelligence
+   ~Purpose: The primary goal of Artificial Intelligence is to provide or develop a software that can reason on input and explain an output. AI makes it possible for machines to learn from experience, adjust to new inputs, and perform human-like tasks. 
+   ~Usage:  
+      Education: Artificial Intelligence is utilized in the education sector by both the teachers and students. Teachers utilize AI tools that can automate grading, which enables teachers to save time on repetitive tasks, design and assign tasks, give feedback, and effectively control classroom interactions. Meanwhile, students are able to utilize AI through AI-driven educational games and apps that make learning more interactive, as well as virtual tutors and chatbots that offer students more help outside of class.
+      IT Industry: AI in the IT industry serves many purposes. AI serves as a tool for automating routine tasks, enhancing cybersecurity, optimizing IT operations, and providing data-driven insights. This enables IT professionals to focus more on complex and strategic initiatives, fostering innovation within organizations.
+   ~Examples: AI chatbots such as ChatGPT, Gemini, Bard, Copilot, and more for research. Google Classroom AI algorithms that support automated grading, make individualized recommendations for learning materials, and examine student data to provide insights on performance and growth.  
+
+2. Cloud Computing
+   ~Purpose: Cloud computing is the delivery of computing services over the internet or “the cloud”, to offer faster innovation, flexible resources, and economies of scale while allowing users to pay only for the services they use. The main purpose of cloud computing is making data backup, disaster recovery, and business continuity easier and less expensive because data can be mirrored at multiple redundant sites on the cloud reader’s network. 
+   ~Usage:
+      Education: Cloud computing is utilized in the education sector by hosting educational resources on a cloud platform which eliminates physical textbooks and makes them easily accessible to students and teachers alike. It can also help teachers connect with their students more efficiently and communicate more clearly. 
+      IT Industry: The cloud delivers more flexibility and reliability, increased performance and efficiency and helps to lower IT costs. It facilitates rapid deployment of applications and services, letting developers swiftly provision resources and test new ideas. This eliminates the need for time-consuming hardware procurement processes, thereby accelerating time to market. 
+   ~Examples: The use of Google Cloud in both education and IT sectors for storing files and other important data or documents, Microsoft, IaaS, and SaaS.
+
+3. Gamification
+   ~Purpose: Gamification is adding game mechanics into nongame environments, like websites, online community, learning management system or business’ intranet to increase participation. The primary goal of gamification is to engage with consumers, employees and partners to inspire, collaborate, share, and interact. Its key benefit is increased engagement, which enhances active user engagement by making tasks more enjoyable, interactive, and rewarding. 
+   ~Usage:
+      Education: Emerging gamification technologies in education are enabling more engaging and interactive learning experiences. Using gaming mechanics, such as badges, points, levels, or leaderboards and applying these mechanics to how a learning course is taught, improves the learner’s motivation as gamification’s main purpose in education is to increase engagement through the use of competition, creativity, student-led learning, and immediate feedback.
+      IT industry: Gamification allows organizations to improve processes, services and applications through elements such as points, badges, leaderboards, and challenges. This promotes and boosts user engagement and motivation and ultimately leads to higher completion rates as employees are motivated to complete activities.
+   ~Examples:  Archy Learning, Learning Management Systems, Codecademy
+
+4. Augmented Reality
+   ~Purpose: Augmented reality is an interactive experience in which a real-world environment is enhanced with computer-generated visual elements, sounds, and other stimuli. It can provide a user with a heightened, more immersive experience than they would experience otherwise, which adds to the user’s enjoyment or understanding. 
+   ~Usage:
+      Education: Educators can engage students in immersive and dynamic learning environments, promoting their participation and motivation. AR can facilitate the visualization of complex concepts, making abstract ideas more tangible and accessible. It also helps implement more self-practice sessions and hands-on learning exercises to provide students an interactive learning environment, even within the classroom.
+      IT Industry: AR uses computer hardware and software, such as apps, consoles, screens, or projections, to combine digital information with the real-world environment. Augmented reality overlays digital content onto real-life environments and objects which creates an interactive experience that enhances the real world with computer-generated perceptual information.
+   ~Examples: AR headsets used by architects and engineers to virtually step into spaces such as buildings and get an idea of what the finished work would look like, Google Sky Map
+
+5. Blockchain
+   ~Purpose: The purpose of blockchain technology is to share information amongst all parties that access it via an application. It allows for the secure sharing of sensitive data. Blockchain’s transformative power lies in its decentralized structure, distributing updates among participants known as nodes. These nodes operate within public or private networks, ensuring the security and authenticity of the data on the blockchain.
+   ~Usage:
+      Education: Blockchain technology can be used to create decentralized learning platforms that are owned and controlled by the learners themselves. This can help reduce the influence of intermediaries such as educational institutions and create a more democratic and equitable learning environment. Blockchain enhances security, transparency, and efficiency into educational systems. Blockchain works as a decentralized, encrypted ledger where data transactions are recorded across a network of computers, ensuring information can’t be altered or tampered with. 
+      IT Industry: Blockchain uses a distributed ledger, it records transactions and data identically in multiple locations. All network participants with permissioned access the same information at the same time, providing full transparency. Most companies use blockchain technology to efficiently transfer money to eliminate bureaucratic red tape.
+   ~Examples: Education credentials verification through blockchain, Smart contracts software that automate the execution of agreements which reduces the need for intermediaries
+
+Resources:
+https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html#:~:text=Artificial%20intelligence%20(AI)%20makes%20it,learning%20and%20natural%20language%20processing.
+https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/major-goals-of-ai#:~:text=One%20of%20the%20central%20aims,finance%20to%20transportation%20and%20manufacturing.
+https://appinventiv.com/blog/artificial-intelligence-in-education/#:~:text=It%20allows%20teachers%20to%20design,insights%20on%20performance%20and%20growth.
+https://www.classpoint.io/blog/10-ways-how-ai-is-used-in-education
+https://www.leanix.net/en/wiki/ea/ai-in-the-it-industry#:~:text=AI%20plays%20a%20multifaceted%20role,%2C%20data%20analysis%2C%20and%20more.
+https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-cloud-computing#:~:text=Cloud%20computing%20makes%20data%20backup,on%20the%20cloud%20provider's%20network.
+https://www.salesforce.com/in/cloudcomputing/#:~:text=Cloud%20computing%20is%20the%20on,for%20the%20services%20they%20use.
+https://www.techtarget.com/searchcloudcomputing/definition/cloud-computing#:~:text=Cloud%20computing%20facilitates%20rapid%20deployment,thereby%20accelerating%20time%20to%20market.
+https://cloud.google.com/learn/advantages-of-cloud-computing
+https://blog.teamsatchel.com/cloud-computing-in-schools-and-its-benefits#:~:text=Cloud%20computing%20can%20help%20teachers,can%20access%20anytime%20and%20anywhere.
+https://www.infosysbpm.com/blogs/education-technology-services/cloud-computing-benefits-in-education.html#:~:text=Hosting%20educational%20resources%20on%20a,device%20and%20an%20internet%20connection.
+https://www.techtarget.com/searchhrsoftware/definition/gamification#:~:text=Gamification%20offers%20key%20benefits%20in,increase%20customer%20engagement%20in%20particular.
+https://www.biworldwide.com/gamification/what-is-gamification/#:~:text=Gamification%20is%20adding%20game%20mechanics,inspire%20collaborate%2C%20share%20and%20interact.
+https://raccoongang.com/blog/gamification-education-and-its-examples/#:~:text=Gamification%20uses%20gaming%20mechanics%2C%20such,turn%2C%20improves%20the%20learner's%20motivation.
+https://study.com/academy/lesson/what-is-gamification-in-education-definition-research-strategies.html#:~:text=groups%20or%20individually.-,Lesson%20Summary,led%20learning%2C%20and%20immediate%20feedback.
+https://www.alexanderthamm.com/en/blog/examples-of-gamification-in-companies/#:~:text=Gamification%20refers%20to%20the%20Application,%2C%20badges%2C%20leaderboards%20and%20challenges.
+https://www.investopedia.com/terms/a/augmented-reality.asp#:~:text=Augmented%20reality%20is%20an%20interactive,the%20user's%20enjoyment%20or%20understanding.
+https://www.fingent.com/blog/augmented-reality-in-education-training-use-cases-and-business-benefits/#:~:text=AR%20helps%20implement%20more%20self,more%20about%20different%20bird%20species.
+https://slejournal.springeropen.com/articles/10.1186/s40561-023-00288-0#:~:text=By%20incorporating%20AR%20technology%2C%20educators,ideas%20more%20tangible%20and%20accessible.
+https://online.champlain.edu/blog/benefits-blockchain-technology#:~:text=The%20blockchain%20allows%20for%20the,the%20data%20on%20the%20blockchain.
+https://www.ecampusnews.com/eschool-media/2024/07/18/the-impact-of-blockchain-in-education-on-tomorrows-learning-landscape/#:~:text=The%20integration%20of%20blockchain%20technology,be%20altered%20or%20tampered%20with.
+https://www.sciencedirect.com/science/article/pii/S2096720923000404#:~:text=Decentralized%20Learning%20Platforms%3A%20Blockchain%20technology,democratic%20and%20equitable%20learning%20environment.
+https://www.weforum.org/agenda/2024/03/higher-education-universities-blockchain-transform-research/#:~:text=One%20major%20use%20case%20is,validated%20by%20educational%20entities%20worldwide.
+https://www.ibm.com/topics/benefits-of-blockchain#:~:text=Without%20blockchain%2C%20each%20organization%20has,same%20time%2C%20providing%20full%20transparency.
+
