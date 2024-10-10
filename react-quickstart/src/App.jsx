@@ -1,8 +1,11 @@
+import './App.css'
+import Profile from './Profile'
+
 function MyApp() {
   return (
     <>
       <h1>Welcome to my app</h1>
-      <img className="avatar" src='https://i.imgur.com/yXOvdOSs.jpg'/>
+      <Profile />
     </>
   )
 }
