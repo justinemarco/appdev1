@@ -1,11 +1,15 @@
 import './App.css'
-import Profile from './Profile'
+import AdminPanel from './AdminPanel';
+import LoginForm from './LoginForm';
 
 function MyApp() {
+  let isLoggedIn = false;
+
+  
   return (
     <>
       <h1>Welcome to my app</h1>
-      <Profile />
+      {isLoggedIn ? (<AdminPanel />) : (<LoginForm />)}
     </>
   )
 }
