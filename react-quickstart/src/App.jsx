@@ -1,27 +1,28 @@
 import './App.css'
 
-function MyApp() {
-
   const products = [
-    { title: 'Cabbage', id: 1 },
-    { title: 'Garlic', id: 2 },
-    { title: 'Apple', id: 3 },
+    { title: 'Cabbage', isFruit: false, id: 1 },
+    { title: 'Garlic', isFruit: false, id: 2 },
+    { title: 'Apple', isFruit: true, id: 3 },
   ];
   
-  const listItems = products.map(product => 
-    <li key = {product.id}>
-      {product.title}
-    </li>
-  );
+  export default function ShoppingList() {
+    const listItems = products.map(product =>
+      <li
+        key={product.id}
+        style={{
+          color: product.isFruit ? 'magenta' : 'darkgreen'
+        }}
+      >
+        {product.title}
+      </li>
+    );
   
-  return (
-    <>
-      <h1>Welcome to my app</h1>
-      <ul>{listItems}</ul>
-    </>
-  );
-}
+    return (
+      <>
+        <h1>List of Products</h1>
+        <ul>{listItems}</ul>
+      </>
+    );
+  }
 
-
-
-export default MyApp
