@@ -4,8 +4,9 @@ import App from './App.jsx'
 import MyButton from './MyButton.jsx'
 import './index.css'
 
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <MyButton />
+    <App />
   </StrictMode>,
 )

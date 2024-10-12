@@ -1,4 +1,5 @@
 function MyButton() {
+    
     function handleClick() {
         alert('You clicked me!');
     }
@@ -8,7 +9,6 @@ function MyButton() {
             Click me
         </button>
     )
-
 }
 
 export default MyButton;
