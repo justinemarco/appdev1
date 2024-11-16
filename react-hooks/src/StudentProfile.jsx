@@ -1,16 +1,16 @@
 import { createContext, useContext } from 'react';
 
-const StudentContext = createContext();
+const StudentContext = createContext()
 
 const StudentProvider = ({ children }) => {
   const student = {
-    name: 'Elmer Alvarado',
-    age: 29,
+    name: 'Justine Marco',
+    age: 20,
     major: 'Bachelor of Science in Information System'
   };
 
   return (
-    <StudentContext.Provider value={{ student }}>
+    <StudentContext.Provider value={ student }>
       {children}
     </StudentContext.Provider>
   );
