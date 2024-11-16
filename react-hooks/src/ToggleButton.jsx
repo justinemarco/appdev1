@@ -5,11 +5,10 @@ function ToggleButton() {
     
     return (
         <div>
-            <h2>{  ? 'The button is ON' : 'The button is OFF'}</h2>
-            <button onClick=
+            <h2>{ isOn ? 'The button is ON' : 'The button is OFF'}</h2>
+            <button onClick={() => setIsOn (!isOn)}>Toggle</button>
         </div>
-    )
-
+    );
 }
 
 export default ToggleButton;
